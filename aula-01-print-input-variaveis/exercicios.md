@@ -174,9 +174,6 @@ A divisão `valor_reais / cotacao_dolar` produz o resultado em dólares. Dentro 
 ### Arquivo: [`solucoes/exercicio_05.py`](exercicio_05.py)
  
 ---
- 
-## Próximos passos
- 
-Na próxima aula vamos aprender a tomar decisões no código com `if`, `elif` e `else`. Assim seus programas poderão reagir de formas diferentes dependendo do que o usuário digitar.
+
  
 Bons estudos...
